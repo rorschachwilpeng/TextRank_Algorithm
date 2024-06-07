@@ -1,1 +1,2 @@
 # TextRank_Algorithm
+本项目目的于实现TextRank算法，利用外部语料于验证算法性能
